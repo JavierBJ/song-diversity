@@ -33,9 +33,9 @@ A simple run on a medium-size corpus and small-size embeddings yields these resu
 
 Year diversity:
 
-![Song diversity through years](year_div.png "Year diversity")
+![Song diversity through years](lyrics_years.png)
 
-If we aggregate songs diversity by years, there is a trend upside that is promising. Are lyrics really getting _better_ with time?
+If we aggregate songs diversity by years, there is a trend upside that is promising. Are lyrics really getting _better_ with time? It would be interesting to split this plot into genres, to see if there is a correlation between both (e.g. genres with more vocals more popular nowadays than in the past).
 
 ### Caveats
 * The measure could be very correlated with the length of the lyrics and should be adjusted in that sense.
